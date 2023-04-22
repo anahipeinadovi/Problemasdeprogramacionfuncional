@@ -1,4 +1,5 @@
 # Problemas de programacion funcional
+
 En este repositorio se encuentra código en el que se crea un DAO para cargar la información de un archivo txt con 80 productos de una empresa de abarrotes,de acuerdo a la lista de productos que está definida por la clave del producto, su descripción precio, clasificación, cantidad de existencia, existencia mínima y máxima se realizaran 5 reportes 
 1) Número de productos con existencia mayor a 20.
 
@@ -17,9 +18,13 @@ Se deberan tener instaladas las dependencias correspondientes (nodejs y npm)
 ### Instalación
 
 1.Asegurarse de tener instaladas las dependencias correspondientes: https://midu.dev/como-instalar-node-en-mac-y-windows/
+
 2. Clonar este repositorio en tu computadora
+
 3. Posicionarse en el directorio donde se encuentran los archivos js y txt
+
 4. Ejecutar el siguiente comando para ver la generación de los 5 reportes:
+
     node dao.js
 
 ## Construido con 
