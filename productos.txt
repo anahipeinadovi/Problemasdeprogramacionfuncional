@@ -1,0 +1,80 @@
+1	Tomate	10.50	A	50	10	100
+2	Cebolla	5.25	A	30	15	75
+3	Carne	120.00	B	5	2	20
+4	Queso	25.75	A	15	5	30
+5	Jamón	45.80	C	12	5	50
+6	Pan	5.00	C	40	10	60
+7	Huevos	3.50	C	100	50	200
+8	Leche	19.90	A	25	10	50
+9	Galletas	12.30	B	20	5	30
+10	Refresco	15.50	B	40	20	60      
+11	AceitedeOlivaExtraVirgen	99.99	A	18	5	30
+12	LecheDeslactosada	18.50	B	50	10	60
+13	Arroz Integral	24.99	A	12	3	20
+14	Atún en Agua	35.75	C	15	5	25
+15	Yogurt Griego sin Azúcar	29.50	B	25	5	40
+16	Pasta de Dientes	8.99	C	30	10	50
+17	Papel Higiénico	14.50	C	40	20	60
+18	Salsa de Tomate	12.75	A	22	5	35
+19	Refresco de Cola	19.99	B	18	5	30
+20	Café Molido	7.99	A	10	3	15
+21	Galletas de Avena	11.50	B	35	10	50
+22	Queso Panela	48.99	C	8	2	15
+23	Pollo Entero	57.50	C	10	2	20
+24	Pan Integral	16.25	A	30	10	50
+25	Huevos	9.99	B	42	5	60
+26	Jugo de Naranja	22.99	A	20	5	30
+27	Carne de Res	8.50	C	25	5	40
+28	Jamón de Pavo	9.99	C	35	10	50
+29	Sopa de Pollo	6.99	A	40	15	60
+30	Mantequilla de Maní	8.25	B	15	3	25
+31	Cereal Integral	14.99	A	28	5	40
+32	Lechuga Romana	8.50	C	20	5	30
+33	Tomate	4.99	C	30	10	50
+34	Zanahoria	3.25	C	40	10	60
+35	Aguacate	9.99	C	12	3	20
+36	Chile Poblano	7.50	C	20	5	30
+37	Cebolla	2.50	C	30	10	50
+38	Ajo	1.99	C	40	10	60
+39	Limón	3.50	C	50	15	70
+40	Manzanas	7.99	A	35	5	50
+41	Plátanos	10.25	A	30	5	45
+42	Fresas	9.50	A	99	15	42
+43	Salmón Ahumado	85.99	A	8	2	15
+44	Queso Parmesano	39.99	C	12	3	20
+45	Vino Tinto	24.50	A	20	5	30
+46	Cerveza Artesanal	39.99	B	15	3	25
+47	Mermelada de Fresa	12.75	A	22	5	35
+48	Ensalada de Pollo	29.99	C	10	2	15
+49	Mermelada de chabacano	8.50	B	25	5	40
+50	Aceitunas Verdes	14.99	C	18	5	30
+51	Té Verde	11.99	A	30	10	50
+52	Yogurt de Fresa sin Azúcar	29.50	B	25	5	40
+53	Chuletas de Cerdo	12.99	C	20	5	35
+54	Camarones	59.99	A	12	2	15
+55	Pistachos	19.99	B	18	5	30
+56	Cacahuates	10.99	C	25	5	40
+57	Tortillas de Harina	11.50	A	35	10	50
+58	Tortillas de Maíz	7.25	C	40	10	60
+60	Tocino	19.50	C	20	5	35
+61	Miel de Abeja	8.99	A	25	5	40
+62	Crema de Nuez	14.99	B	20	5	30
+63	Crema de Avellana	18.50	C	12	3	20
+64	Tostadas	11.75	A	30	10	50
+65	Aceite de Coco	19.99	B	15	3	25
+66	Mantequilla	12.75	C	20	5	35
+67	Galletas de Chocolate	14.50	A	25	5	40
+68	Salsa Picante	10.25	B	30	10	50
+69	Chiles Secos	12.99	C	25	5	40
+70	Chorizo	22.50	C	15	3	20
+71	Enchiladas	18.99	A	12	3	20
+72	Filete de Salmón	29.99	A	15	3	20
+72	Pulpo	49.99	A	8	2	15
+73	Queso Cottage	19.50	B	15	3	25
+74	Lentejas	14.99	A	30	10	50
+75	Té de Hierbas	12.99	B	25	5	40
+76	Sal de Mar	5.75	C	30	5	50
+77	Vinagre de Manzana	7.99	A	18	3	30
+78	Frijoles Negros	16.99	B	20	5	35
+79	Croquetas	9.99	A	15	3	25
+80	Salsa de Soya	6.50	A	25	5	40
